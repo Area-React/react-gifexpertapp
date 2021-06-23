@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Prueba para GifExpertApp Debe mostrar el texto <GifExpertApp />  1`] = `ShallowWrapper {}`;
+
+exports[`Prueba para GifExpertApp Debe mostrar la linea <hr />  1`] = `""`;
